@@ -27,3 +27,5 @@ The `Mortgage` class encapsulates the logic for calculating mortgage payments an
 ```bash
 git clone https://github.com/your-username/mortgage-calculator.git
 cd mortgage
+
+javac Mortgage.java Main.java
